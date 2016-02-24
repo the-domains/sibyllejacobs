@@ -1,0 +1,28 @@
+name: SibylleJacobs
+favicon: null
+layout_spectrum: 0.11355875548906624
+typography_spectrum: 0.1971112817991525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5993704067077488
+  lightness: 0.2558750759344548
+  saturation: 0.7643039131071419
+  rhythmicContrast: 0.07928749127313495
+purpose: []
