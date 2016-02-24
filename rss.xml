@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SibylleJacobs]]></title>
+        <description><![CDATA[SibylleJacobs]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 24 Feb 2016 00:24:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A morning run only makes sense if the training effect is optimized, so the App for nocturnal breathing control has determined the ideal time for me to get up.</p>]]></description>
+            <link>undefined172a0ba6-f798-4339-ae88-78ade1046ae6/index.html</link>
+            <guid isPermaLink="false">172a0ba6-f798-4339-ae88-78ade1046ae6</guid>
+            <pubDate>Wed, 24 Feb 2016 00:23:38 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
