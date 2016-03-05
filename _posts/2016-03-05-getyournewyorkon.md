@@ -6,25 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T17:17:02.181Z'
-dateModified: '2016-03-05T17:15:44.120Z'
-title: '#GetYourNewYorkON'
+datePublished: '2016-03-05T17:29:15.117Z'
+dateModified: '2016-03-05T17:28:28.282Z'
+title: '#GetYourNewYorkOn'
 author: []
+sourcePath: _posts/2016-03-05-getyournewyorkon.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-05-getyournewyorkon.md
-published: true
 url: getyournewyorkon/index.html
 _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/eaf32f4c-c127-4d6f-9a8d-40ebd8537a82.jpg)
 
-# \#GetYourNewYorkON
+# \#GetYourNewYorkOn
 
 I think endurance is a state of mind. Sure physical fitness
 is needed and you can train for it but first of all you need the right mindset.
