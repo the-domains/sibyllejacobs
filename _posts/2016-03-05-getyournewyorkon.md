@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-05T17:29:15.117Z'
-dateModified: '2016-03-05T17:28:28.282Z'
+datePublished: '2016-03-07T12:59:37.639Z'
+dateModified: '2016-03-07T12:59:30.282Z'
 title: '#GetYourNewYorkOn'
 author: []
 sourcePath: _posts/2016-03-05-getyournewyorkon.md
