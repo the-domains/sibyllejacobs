@@ -1,6 +1,6 @@
 name: SibylleJacobs
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.99743
 typography_spectrum: 0.52292
 title: In the Matrix
 cta:
@@ -22,8 +22,8 @@ color:
     - '#7c6b5b'
     - '#22231e'
     - '#425c41'
-  brandStrength: 0.625
-  lightness: 0.2558750759344548
-  saturation: 0.7643039131071419
-  rhythmicContrast: 0.07928749127313495
+  brandStrength: 1
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
