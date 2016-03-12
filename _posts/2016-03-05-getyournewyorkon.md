@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-07T12:59:37.639Z'
-dateModified: '2016-03-07T12:59:30.282Z'
+datePublished: '2016-03-12T17:24:17.041Z'
+dateModified: '2016-03-07T12:59:55.765Z'
 title: '#GetYourNewYorkOn'
 author: []
 sourcePath: _posts/2016-03-05-getyournewyorkon.md
